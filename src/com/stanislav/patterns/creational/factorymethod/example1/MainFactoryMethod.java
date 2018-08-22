@@ -1,4 +1,4 @@
-package factorymethod;
+package com.stanislav.patterns.creational.factorymethod.example1;
 
 public class MainFactoryMethod {
     public static void main(String[] args) {
